@@ -1,6 +1,4 @@
------
 
-````markdown
 # 🎵 Tune reccomender: AI-Powered Audio Fingerprint Recommender
 
 **TuneTexture** is a full-stack music discovery engine that helps users find "hidden gems" based on sonic texture rather than popularity.
